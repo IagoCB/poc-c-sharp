@@ -53,6 +53,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+      "Id": "D:\\software\\poc-c-sharp\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-quartz.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-quartz.css"
+    },
+    {
       "Id": "D:\\software\\poc-c-sharp\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
