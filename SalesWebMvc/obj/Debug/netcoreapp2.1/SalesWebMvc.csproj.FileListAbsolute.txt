@@ -1,0 +1,7 @@
+D:\software\poc-c-sharp\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.AssemblyReference.cache
+D:\software\poc-c-sharp\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\software\poc-c-sharp\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
+D:\software\poc-c-sharp\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
+D:\software\poc-c-sharp\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
+D:\software\poc-c-sharp\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cache
+D:\software\poc-c-sharp\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cs
